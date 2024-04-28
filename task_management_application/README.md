@@ -169,7 +169,3 @@ Through this project, we explored Swift's capabilities and the power of SwiftUI 
 Swift's strong typing, optional handling, and modern features, combined with SwiftUI's declarative approach, make it an excellent choice for developing robust and user-friendly applications for Apple's platforms.
 
 The task management application serves as a foundation that can be further enhanced and expanded to include additional features and improvements based on specific requirements and user feedback.
-
-GitHub Repository
-The complete source code for the task management application can be found in the GitHub repository:
-https://github.com/mattpark01/swift-task-manager
